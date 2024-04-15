@@ -1,0 +1,5 @@
+ctransformer=0.2.5(if you want to use LangChain then you have to use ctransformer library)
+sentence-transformer = 2.2.2
+pinecone-client
+LangChain==0.0.225
+flask
